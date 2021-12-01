@@ -1,0 +1,15 @@
+title: Immobiliendienstleistungen
+
+----
+
+text:
+
+Wenn Sie eine Wohnung, ein Haus oder ein Geschäft suchen, haben wir die Lösung mit den besten Angeboten auf dem Markt.
+
+- Wohnungen
+- Häuser
+- Untermietvertrag
+- Gewerbliche Räumlichkeiten
+- Vertragsverhandlungen
+- Schutz der Mieterrechte
+- Mediation bei Mieter-Vermieter-Streitigkeiten

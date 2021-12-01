@@ -1,0 +1,19 @@
+Title: Services immobiliers
+
+----
+
+Slug: services-immobiliers
+
+----
+
+Text:
+
+Si vous recherchez un appartement, une maison ou un local commercial, nous avons la solution avec les meilleures offres du marché.
+
+- Appartements
+- Maisons
+- Sous-location
+- Locaux commerciaux
+- Négociations contractuelles
+- Protection des droits des locataires
+- Médiation dans les litiges entre locataires et propriétaires

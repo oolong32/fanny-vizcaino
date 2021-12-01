@@ -1,0 +1,108 @@
+:root {
+  font-family: 'Georama', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 100%;
+  font-weight: 300;
+  line-height: 1.4;
+  --background: white;
+  --color: black;
+  --secondary-color: fuchsia;
+  --link-color: black;
+  /* margins */
+  --gogol: 3rem;
+  --maxi: 1.25rem;
+  --mini: 0.5rem;
+  /* font sizes */
+  --xl: 3rem;
+  --l: 2.25rem;
+  --m: 1rem;
+  --s: 0.75rem;
+}
+
+body {
+  background: var(--background);
+  color: var(--color);
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+a { color: var(--link-color); }
+
+.no-list {
+  list-style: none;
+  padding: 0;
+}
+
+.un-deco {
+  text-decoration: none;
+  color: unset;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol { margin: 0; }
+h1, h2, h3, h4, h5, h6, strong { font-weight: 600; }
+
+header, main { margin-bottom: var(--gogol); }
+
+header h1 { margin: var(--maxi) 0; }
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+nav.languages { font-size: var(--s); }
+nav.services { font-size: var(--m); }
+nav ul li a { margin-right: 1rem; }
+nav ul li a.active { color: var(--secondary-color); }
+nav ul li a { text-decoration: none; }
+nav ul li a:hover { text-decoration: underline; }
+nav ul li a.active:hover { text-decoration: none; }
+
+
+main h2,
+main p,
+main ul { margin-bottom: var(--mini); }
+
+main section {
+  margin-bottom: var(--maxi);
+}
+
+footer {
+  margin-top: auto;
+  font-size: var(--s);
+}
+
+@media (min-width: 700px) {
+  :root {
+    font-size: 2.5vw;
+  }
+  body {
+    padding: var(--maxi) var(--gogol) var(--maxi) var(--maxi);
+  }
+}
+
+@media (min-width: 900px) {
+  :root {
+    font-size: 24px;
+  }
+  body {
+    padding: var(--maxi) var(--gogol) var(--maxi) var(--maxi);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  header, main, footer { 
+    width: 100%;
+    max-width: 800px;
+  }
+}
+
+
+/*
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: black;
+    --color: whitesmoke;
+    --link-color: lawngreen;
+  }
+}
+*/

@@ -1,0 +1,16 @@
+title: Default Page
+
+sections:
+  content:
+    type: fields
+    fields: 
+      title:
+        label: Titel
+        type: text
+      text:
+        label: Inhalt
+        type: textarea
+        buttons: 
+          - bold
+          - link
+          - ul
