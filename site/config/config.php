@@ -1,7 +1,8 @@
 <?php
 return [
     'panel' => [
-      'language' => 'de'
+      'language' => 'de',
+      'install' => true
     ],
     'languages' => true,
     'routes' => [
