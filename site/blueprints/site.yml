@@ -2,3 +2,12 @@ title: Site
 
 preset: pages
 unlisted: true
+
+# fields:
+#   Phone:
+#     label: Telefon
+#     type: tel
+#   Description:
+#     type: text
+#   Address:
+#     type: textarea

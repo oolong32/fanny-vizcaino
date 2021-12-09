@@ -1,4 +1,4 @@
-Title: Fanny Vizcaino Consulting
+Title: FV Consulting
 
 ----
 
@@ -6,13 +6,24 @@ Phone: +41 79 800 86 34
 
 ----
 
+Mail: info@fv-consulting.ch
+
+----
+
 Description: SEO Text …
 
 ----
 
-Address:
+Address: Militärstrasse 86
 
-Militärstrasse 86
-8004
-Zürich
-Switzerland
+----
+
+Zip: 8004
+
+----
+
+City: Zürich
+
+----
+
+Country: Switzerland

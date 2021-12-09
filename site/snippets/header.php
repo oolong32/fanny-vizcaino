@@ -11,9 +11,7 @@
   </ul>
 </nav>
 
-  <a class="un-deco" href="<?= $site->url() ?>">
-    <h1 class="logo"><?= $site->title()->html() ?></h1>
-  </a>
+  <h1 class="logo"><a class="un-deco" href="<?= $site->url() ?>"><?= $site->title()->html() ?></a></h1>
 
   <?php
   // main menu items
