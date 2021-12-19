@@ -1,0 +1,18 @@
+Title: Declaraciónes de impuestos
+
+----
+
+Slug: declaraciones-de-impuestos
+
+----
+
+Text:
+
+Una declaración de impuestos es la finalización de la documentación que calcula los ingresos obtenidos de una entidad o individuo con el monto del impuesto pagadero al gobierno, organizaciones gubernamentales o contribuyentes potenciales.
+
+- Revisiones de Finanzas
+- Justificaciones de Ingreso
+- Bilanzas de Empresas
+- Recursos en Quiebre
+- Retencion en la Fuente
+- Liquidacion del Impuesto

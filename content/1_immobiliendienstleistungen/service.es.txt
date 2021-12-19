@@ -1,0 +1,19 @@
+Title: Servicios inmobiliarios
+
+----
+
+Slug: servicios-inmobiliarios
+
+----
+
+Text:
+
+Si buscas apartamento, casa o local comercial, nosotros tenemos la solución con las mejores ofertas del mercado.
+
+- Apartamentos
+- Casas
+- Subalquier
+- Locales Comerciales
+- Negociaciones de Contratos
+- Protección de los Derechos de Inquilinos
+- Mediación en Conflictos entre Inquilinos y Propietarios

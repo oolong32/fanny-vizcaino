@@ -1,0 +1,23 @@
+Title: Seguros
+
+----
+
+Slug: seguros
+
+----
+
+Text:
+
+Ofrecemos los servicios de las más prestigiosas firmas aseguradoras en toda Europa.
+
+- Seguros Médicos
+- Reducion de Pagos a Medicos
+- Asignacion por Hijos
+- Seguros de Vejez y sobrevivientes
+- Pension Ocupacional
+- Seguros Sociales
+- Ayuda Familiar
+- Seguros de Inmuebles
+- Seguros Daños a Terceros
+- Seguros de Robos e Incendios
+- Otros
