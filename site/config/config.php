@@ -29,9 +29,15 @@ return [
         }
       ],
       [
-        'pattern' => ['en', 'it', 'en/(:any)', 'it/(:any)'],
+        'pattern' => ['it', 'it/(:any)'],
         'action' => function() {
-          return page('foo');
+          return site()->visit('error', 'it');
+        }
+      ],
+      [
+        'pattern' => ['en', 'en/(:any)'],
+        'action' => function() {
+          return site()->visit('error', 'en');
         }
       ]
     ],

@@ -5,7 +5,9 @@
 </head>
 <body class="error-page">
 
-  <?php snippet('header') ?>
+  <header>
+    <h1 class="logo"><?= $site->title()->html() ?></h1>
+  </header>
 
   <?php snippet('separator') ?>
   <main>
