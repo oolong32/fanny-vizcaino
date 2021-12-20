@@ -4,8 +4,7 @@
   font-weight: 400;
   line-height: 1.5;
   --background: whitesmoke;
-  --secondary-bg: hsl(50 10% 40%);
-  --secondary-bg-error: hsl(10 70% 80%);
+  --secondary-bg: hsl(50 10% 50%);
   --color: black;
   --secondary-color: fuchsia;
   --link-color: black;
