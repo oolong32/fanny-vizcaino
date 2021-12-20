@@ -1,14 +1,9 @@
-<?php
-
-// $translation = page()->translation(kirby()->language()->code())->exists();
-?>
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
   <?php snippet('head') ?>
 </head>
-<body>
+<body class="error-page">
 
   <?php snippet('header') ?>
 

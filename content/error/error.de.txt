@@ -1,7 +1,7 @@
-Titel: Fehler 404
+Title: Fehler 404
 
 ----
 
 Text:
 
-Unter dieser Url gibt es keinen Inhalt.
+Leider gibt es hier zur Zeit keinen Inhalt. Bitte kontaktieren Sie uns für weitere Informationen.

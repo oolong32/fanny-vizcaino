@@ -5,6 +5,7 @@
   line-height: 1.5;
   --background: whitesmoke;
   --secondary-bg: hsl(50 10% 40%);
+  --secondary-bg-error: hsl(10 70% 80%);
   --color: black;
   --secondary-color: fuchsia;
   --link-color: black;
@@ -28,6 +29,7 @@ body {
   background: var(--background);
   color: var(--color);
   min-height: 100vh;
+  margin: 0;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
@@ -54,8 +56,6 @@ a.un-deco {
 h1, h2, h3, h4, h5, h6, p, ul, ol { margin: 0; }
 h1, h2, h3, h4, h5, h6, strong { font-weight: 600; }
 h1, h2 { font-family: 'Source Sans Pro'; }
-
-body { margin: 0; }
 
 header, main, footer, .separator { 
   box-sizing: border-box;
@@ -115,6 +115,9 @@ nav.services ul {
 nav.services ul li { margin-bottom: 0.5rem; }
 nav.services ul li:last-of-type { margin-bottom: 0; }
 
+/* Navigation bei Fehlern weg, führt zu Fehlern */
+.error-page nav.languages { display: none; }
+.error-page nav.services { display: none; }
 
 main { padding: var(--mini) var(--mini) var(--maxi); }
 
