@@ -1,6 +1,6 @@
 <?php
 return [
-    'debug' => true,
+    'debug' => false,
     'panel' => [
       'language' => 'de',
       'install' => true
@@ -26,12 +26,6 @@ return [
         'pattern' => 'sitemap',
         'action'  => function() {
           return go('sitemap.xml', 301);
-        }
-      ],
-      [
-        'pattern' => ['en', 'it', 'en/(:any)', 'it/(:any)'],
-        'action' => function() {
-          return page('foo');
         }
       ]
     ],

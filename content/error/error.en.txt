@@ -1,1 +1,7 @@
 Title: Error 404
+
+----
+
+Text:
+
+Unfortuately there’s no content here at this time. Please get in touch for more information.

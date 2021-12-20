@@ -1,1 +1,7 @@
 Title: Erreur 404
+
+----
+
+Text:
+
+Malheureusement, il n'y a pas de contenu ici pour le moment. Veuillez nous contacter pour plus d'informations.

@@ -185,6 +185,7 @@ footer p {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 1rem 1.5rem;
+    align-items: start;
   }
   nav.services ul li { margin: 0; }
 
