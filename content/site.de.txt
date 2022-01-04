@@ -23,7 +23,3 @@ Zip: 8004
 ----
 
 City: Zürich
-
-----
-
-Country: Switzerland

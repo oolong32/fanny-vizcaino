@@ -1,13 +1,41 @@
 title: Site
 
-preset: pages
-unlisted: true
+columns:
+  left:
+    width: 2/3
+    sections:
+      unlisted:
+        headline: Home Page
+        type: pages
+        status: unlisted
+        template: home
 
-# fields:
-#   Phone:
-#     label: Telefon
-#     type: tel
-#   Description:
-#     type: text
-#   Address:
-#     type: textarea
+      drafts:
+        headline: Drafts
+        type: pages
+        status: draft
+        template: service
+
+      published:
+        headline: Published Pages
+        type: pages
+        status: published
+        template: service
+  right:
+    title: Allgmeine Daten
+    width: 1/3
+    fields:
+      Phone:
+        label: Telefon
+        type: tel
+      Mail:
+        label: E-Mail
+        type: email
+      Description:
+        type: text
+      Address:
+        type: text
+      Zip:
+        type: text
+      City:
+        type: text
